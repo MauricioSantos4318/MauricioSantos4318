@@ -1,8 +1,8 @@
 ### Mauricio Santos 👋
 
 
-- 🔭 Trabalho com Formatação.
-- 🌱 Estudo Desenvolvimento Web ( Full Stack )
+- 🔭 Trabalho com Manutenção de softwere.
+- 🌱 Estudo Desenvolvimento Web ( Full Stack ) / (Inglês)
 <div>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor">
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor">
