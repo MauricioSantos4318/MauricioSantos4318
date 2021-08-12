@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com  Instalação  e  Manutenção  softwere.
-- 🌱 Estudo Desenvolvimento Web /  ingles.
+- 🌱 Estudo Desenvolvimento Web /  ingles
 <div>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor">
   <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=50&color=currentColor">
