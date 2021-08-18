@@ -1,7 +1,7 @@
 ### Mauricio Santos 👋
 
 
-- 🔭 Trabalho com  Instalação  e  Manutenção  softwere.
+- 🔭 Trabalho com  Instalação  de softwere
 - 🌱 Estudo Desenvolvimento Web /  ingles
 <div>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor">
