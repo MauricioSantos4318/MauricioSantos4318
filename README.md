@@ -1,7 +1,7 @@
 ### Mauricio Santos 👋
 
 
-- 🔭 Trabalho com  Instalação  de softwere
+- 🔭 Sem contrato de trabalho no momento
 - 🌱 Estudo Desenvolvimento Web /  ingles
 <div>
   <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=50&color=currentColor">
